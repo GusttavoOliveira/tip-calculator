@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Windows\.gradle\caches\transforms-3\d27c9e4adf3bb854b2b70bfc3761971e\transformed\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\ecc422c446deee82052bd5e8499a30e8\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\139c9375bd534e741e7652307290a4ff\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\b13feb811c9ab6cb3ef1f53923b8bd6b\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\9d1098f927595d53d85894daf6095adc\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\ca034b1bfdd88df2e83098767836a04c\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\34e0e2fe7643bbf2363fdd441ffa1140\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\0dbc680c97c40ffd1edcee3058d278b8\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\141119738ca6b7c119704b3ed4c0fe47\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\3264c4e199cc5b79440de0c9ec96d448\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\578ad7ef4b7e4cffb462466a4b6790f9\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\37be8029252708383703121a1d0f1671\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\1047f9f83b22b6dc32b7d72f5d95a36d\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\f9e590356665de360c1e8a42431f0646\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\7fa2fbeb57a0cb2691f06c448ef68404\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\8f0a650ff5a9da85de98fad60c533a32\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\591cc06b08a5a28516c3f22efec54d98\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\d2057d2b997d4e420bcd2e90560f4505\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\b02f84f239dc0ddb55ae92810f07f4f9\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\1ca45ae7155b0be55cf71fe4fcdf6c9c\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\0cd3d33ab94b5a9db8eb94771d714b9a\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\f06318391588c5a99b8f2b5f77a30d8b\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\f6412d4c0d2f4224db218bb0ff55b01b\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\f9ddb16659113ba8fe28b8b3554c446f\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\386b34872c9514f3cb6864472ea4094c\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\8c0fe8cdc96882d1c5f339260fe6a821\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\6ca378f7df0f72ba7ab3eb8220512d59\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Windows\.gradle\caches\transforms-3\d27c9e4adf3bb854b2b70bfc3761971e\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Windows\.gradle\caches\transforms-3\d27c9e4adf3bb854b2b70bfc3761971e\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\8f0a650ff5a9da85de98fad60c533a32\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\8f0a650ff5a9da85de98fad60c533a32\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\591cc06b08a5a28516c3f22efec54d98\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\591cc06b08a5a28516c3f22efec54d98\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\8f0a650ff5a9da85de98fad60c533a32\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:11:9-51
+activity#com.example.tipcalculator.MainActivity
+ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Windows\.gradle\caches\transforms-3\d27c9e4adf3bb854b2b70bfc3761971e\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Windows\.gradle\caches\transforms-3\d27c9e4adf3bb854b2b70bfc3761971e\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\ecc422c446deee82052bd5e8499a30e8\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\ecc422c446deee82052bd5e8499a30e8\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\139c9375bd534e741e7652307290a4ff\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\139c9375bd534e741e7652307290a4ff\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\b13feb811c9ab6cb3ef1f53923b8bd6b\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\b13feb811c9ab6cb3ef1f53923b8bd6b\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\9d1098f927595d53d85894daf6095adc\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\9d1098f927595d53d85894daf6095adc\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\ca034b1bfdd88df2e83098767836a04c\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\ca034b1bfdd88df2e83098767836a04c\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\34e0e2fe7643bbf2363fdd441ffa1140\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\34e0e2fe7643bbf2363fdd441ffa1140\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\0dbc680c97c40ffd1edcee3058d278b8\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\0dbc680c97c40ffd1edcee3058d278b8\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\141119738ca6b7c119704b3ed4c0fe47\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\141119738ca6b7c119704b3ed4c0fe47\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\3264c4e199cc5b79440de0c9ec96d448\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\3264c4e199cc5b79440de0c9ec96d448\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\578ad7ef4b7e4cffb462466a4b6790f9\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\578ad7ef4b7e4cffb462466a4b6790f9\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\37be8029252708383703121a1d0f1671\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\37be8029252708383703121a1d0f1671\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\1047f9f83b22b6dc32b7d72f5d95a36d\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\1047f9f83b22b6dc32b7d72f5d95a36d\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\f9e590356665de360c1e8a42431f0646\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\f9e590356665de360c1e8a42431f0646\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\7fa2fbeb57a0cb2691f06c448ef68404\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\7fa2fbeb57a0cb2691f06c448ef68404\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\8f0a650ff5a9da85de98fad60c533a32\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\8f0a650ff5a9da85de98fad60c533a32\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\591cc06b08a5a28516c3f22efec54d98\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\591cc06b08a5a28516c3f22efec54d98\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\d2057d2b997d4e420bcd2e90560f4505\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\d2057d2b997d4e420bcd2e90560f4505\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\b02f84f239dc0ddb55ae92810f07f4f9\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\b02f84f239dc0ddb55ae92810f07f4f9\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\1ca45ae7155b0be55cf71fe4fcdf6c9c\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\1ca45ae7155b0be55cf71fe4fcdf6c9c\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\0cd3d33ab94b5a9db8eb94771d714b9a\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\0cd3d33ab94b5a9db8eb94771d714b9a\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\f06318391588c5a99b8f2b5f77a30d8b\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\f06318391588c5a99b8f2b5f77a30d8b\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\f6412d4c0d2f4224db218bb0ff55b01b\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\f6412d4c0d2f4224db218bb0ff55b01b\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\f9ddb16659113ba8fe28b8b3554c446f\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\f9ddb16659113ba8fe28b8b3554c446f\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\386b34872c9514f3cb6864472ea4094c\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\386b34872c9514f3cb6864472ea4094c\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\8c0fe8cdc96882d1c5f339260fe6a821\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Windows\.gradle\caches\transforms-3\8c0fe8cdc96882d1c5f339260fe6a821\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\6ca378f7df0f72ba7ab3eb8220512d59\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Windows\.gradle\caches\transforms-3\6ca378f7df0f72ba7ab3eb8220512d59\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Windows\Desktop\Engenharia\Kotlin\tip-calculator\app\src\main\AndroidManifest.xml

@@ -1,0 +1,2 @@
+com/example/tipcalculator/BuildConfig.java
+ com.example.tipcalculator.BuildConfig
