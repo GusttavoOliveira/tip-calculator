@@ -983,6 +983,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id time
 id tip_options
+id tip_result
 id title
 id titleDividerNoCustom
 id title_template
@@ -1086,12 +1087,15 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string amazing_20
 string app_name
+string calculate
 string cost_of_service
 string good_18
 string how_was_the_service
 string ok_15
+string round_up_tip
 string search_menu_title
 string status_bar_notification_info_overflow
+string tip_amount
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

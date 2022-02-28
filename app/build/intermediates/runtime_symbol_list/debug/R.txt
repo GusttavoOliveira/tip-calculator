@@ -982,6 +982,7 @@ int id textSpacerNoButtons 0x7f0700ca
 int id textSpacerNoTitle 0x7f0700cb
 int id time 0x7f0700cc
 int id tip_options 0x7f0700cd
+int id tip_result 0x7f0700de
 int id title 0x7f0700ce
 int id titleDividerNoCustom 0x7f0700cf
 int id title_template 0x7f0700d0
@@ -1085,12 +1086,15 @@ int string abc_shareactionprovider_share_with_application 0x7f0b0025
 int string abc_toolbar_collapse_description 0x7f0b0026
 int string amazing_20 0x7f0b0027
 int string app_name 0x7f0b0028
+int string calculate 0x7f0b002f
 int string cost_of_service 0x7f0b0029
 int string good_18 0x7f0b002a
 int string how_was_the_service 0x7f0b002b
 int string ok_15 0x7f0b002c
+int string round_up_tip 0x7f0b0030
 int string search_menu_title 0x7f0b002d
 int string status_bar_notification_info_overflow 0x7f0b002e
+int string tip_amount 0x7f0b0031
 int style AlertDialog_AppCompat 0x7f0c0000
 int style AlertDialog_AppCompat_Light 0x7f0c0001
 int style Animation_AppCompat_Dialog 0x7f0c0002

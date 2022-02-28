@@ -539,12 +539,15 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="amazing_20">Amazing (20%)</string>
     <string name="app_name">Tip Calculator</string>
+    <string name="calculate">Calculate</string>
     <string name="cost_of_service">Cost of Service</string>
     <string name="good_18">Good (18%)</string>
     <string name="how_was_the_service">How was the service?</string>
     <string name="ok_15">OK (15%)</string>
+    <string name="round_up_tip">Round up tip?</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tip_amount">Tip Amount: %s</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

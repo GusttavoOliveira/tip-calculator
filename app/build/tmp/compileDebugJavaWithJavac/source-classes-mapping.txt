@@ -1,2 +1,4 @@
 com/example/tipcalculator/BuildConfig.java
  com.example.tipcalculator.BuildConfig
+com/example/tipcalculator/databinding/ActivityMainBinding.java
+ com.example.tipcalculator.databinding.ActivityMainBinding
