@@ -1269,6 +1269,7 @@ color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
+color gray
 color green
 color green_dark
 color green_light
@@ -2436,6 +2437,9 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_round_up
+drawable ic_service
+drawable ic_store
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2700,6 +2704,9 @@ id honorRequest
 id horizontal_only
 id icon
 id icon_group
+id icon_round_up
+id icon_service_question
+id icon_store
 id ifRoom
 id ignore
 id ignoreRequest
